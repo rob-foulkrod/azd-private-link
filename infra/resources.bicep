@@ -1,4 +1,4 @@
-@description('Username for the Virtual Machine.')
+@description('Username for the Virtual Machine')
 param vmAdminUsername string
 
 @description('Password for the Virtual Machine. The password must be at least 12 characters long and have lower case, upper characters, digit and a special character (Regex match)')
